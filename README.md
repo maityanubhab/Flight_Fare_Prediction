@@ -1,6 +1,6 @@
 # Flight Fare Prediction:
 
-<img align="right" width="400" height="400" src="https://github.com/maityanubhab/git_command_practice/blob/main/Flight-fare-prediction.gif">
+<img align="right" width="400" height="400" src="https://github.com/maityanubhab/Flight_Fare_Prediction/blob/master/image/Flight-fare-prediction.gif">
 
 ## Table of content
 
